@@ -1,0 +1,33 @@
+<?php
+// Connect to your database (replace with your database credentials)
+$servername = "your_servername";
+$username = "your_username";
+$password = "your_password";
+$dbname = "your_dbname";
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+
+// Check connection
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+// Fetch deals from the database (replace with your actual query)
+$sql = "SELECT name, image, link FROM deals";
+$result = $conn->query($sql);
+
+$deals = array();
+
+if ($result->num_rows > 0) {
+    while($row = $result->fetch_assoc()) {
+        $deals[] = $row;
+    }
+}
+
+// Close the database connection
+$conn->close();
+
+// Return deals as JSON
+header('Content-Type: application/json');
+echo json_encode($deals);
+?>
