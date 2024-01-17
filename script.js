@@ -8,7 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
         { name: "Sceptre Curved 24.5-inch Gaming Monitor 240Hz", image: "gamingmonitor.jpg", link: "https://amzn.to/3SmujlR" },
         { name: "26 Inch Windshield Wiper", image: "winwiper.jpg", link: "https://amzn.to/3U68FUe" },
         { name: "Premier Protein Shake 30g(pack of 12)", image: "proteindrink.jpg", link: "26 Inch Windshield Wipers" },
-        { name: "Utopia Bedding Queen Bed Sheets Set(Queen, Grey)", image: "bedsheet.jpg", link: "https://amzn.to/48BBYma" },                  
+        { name: "Utopia Bedding Queen Bed Sheets Set(Queen, Grey)", image: "bedsheet.jpg", link: "https://amzn.to/48BBYma" },  
+        { name: "Apple Airpods (2nd Generation)", image: "airpods.jpg", link: "https://amzn.to/3tVjIVE" },  
+        { name: "Custom ID Tags for Pets", image: "petcollar.jpg", link: "https://amzn.to/47DSjVZ" },  
     ];
 
     // Display the deals on page load
