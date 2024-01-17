@@ -5,9 +5,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const dealsData = [
         { name: "Wireless Headphones", image: "wireless-headphones.jpg", link: "https://www.plaisio.gr/gaming-zone/aksesouar-gia-konsoles/sony-gold-black-wireless-headset_2873842?qId=6640455434af0fb3a4ed162b51533a7d&qIx=products" },
         { name: "Mielle Organics Rosemary Oil", image: "rosemary oil.jpg", link: "https://amzn.to/4b2AFhu" },
-        { name: "Running Shoes", image: "running-shoes.jpg", link: "https://example.com/running-shoes" },
-        { name: "Home Security Camera", image: "security-camera.jpg", link: "https://example.com/security-camera" },
-        { name: "Samsung 4K Monitor", image: "samsung-monitor.jpg", link: "https://www.amazon.com/SAMSUNG-U28R550UQNX-LU28R550UQNXZA-Monitor-Free/dp/B084V9CJB1?ref_=Oct_DLandingS_D_860e167d_0&th=1" },
+        { name: "Sceptre Curved 24.5-inch Gaming Monitor 240Hz", image: "gamingmonitor.jpg", link: "https://amzn.to/3SmujlR" },
+        { name: "26 Inch Windshield Wiper", image: "winwiper.jpg", link: "https://amzn.to/3U68FUe" },
+        { name: "Premier Protein Shake 30g(pack of 12)", image: "proteindrink.jpg", link: "26 Inch Windshield Wipers" },
         { name: "Utopia Bedding Queen Bed Sheets Set(Queen, Grey)", image: "bedsheet.jpg", link: "https://amzn.to/48BBYma" },                  
     ];
 
