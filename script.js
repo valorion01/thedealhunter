@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
         { name: "Wireless Headphones", image: "wireless-headphones.jpg", link: "https://www.plaisio.gr/gaming-zone/aksesouar-gia-konsoles/sony-gold-black-wireless-headset_2873842?qId=6640455434af0fb3a4ed162b51533a7d&qIx=products" },
         { name: "Mielle Organics Rosemary Oil", image: "rosemary oil.jpg", link: "https://amzn.to/4b2AFhu" },
         { name: "Sceptre Curved 24.5-inch Gaming Monitor 240Hz", image: "gamingmonitor.jpg", link: "https://amzn.to/3SmujlR" },
-        { name: "26 Inch Windshield Wiper", image: "winwiper.jpg", link: "https://amzn.to/3U68FUe" },
+        { name: "26 Inch Windshield Wiper", image: "winnwiper.jpg", link: "https://amzn.to/3U68FUe" },
         { name: "Premier Protein Shake 30g(pack of 12)", image: "proteindrink.jpg", link: "26 Inch Windshield Wipers" },
         { name: "Utopia Bedding Queen Bed Sheets Set(Queen, Grey)", image: "bedsheet.jpg", link: "https://amzn.to/48BBYma" },  
         { name: "Apple Airpods (2nd Generation)", image: "airpods.jpg", link: "https://amzn.to/3tVjIVE" },  
