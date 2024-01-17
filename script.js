@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Array of sample deals
     const dealsData = [
-        { name: "Utopia Bedding Queen Bed Sheets Set - 4 Piece Bedding - Brushed Microfiber - Shrinkage and Fade Resistant - Easy Care (Queen, Grey)", image: "smartwatch-xyz.jpg", link: "https://amzn.to/48BBYma" },
+        { name: "Utopia Bedding Queen Bed Sheets Set - 4 Piece Bedding - Brushed Microfiber - Shrinkage and Fade Resistant - Easy Care (Queen, Grey)", image: "bedsheet.jpg", link: "https://amzn.to/48BBYma" },
         { name: "Wireless Headphones", image: "wireless-headphones.jpg", link: "https://www.plaisio.gr/gaming-zone/aksesouar-gia-konsoles/sony-gold-black-wireless-headset_2873842?qId=6640455434af0fb3a4ed162b51533a7d&qIx=products" },
         { name: "4K Ultra HD TV", image: "4k-tv.jpg", link: "https://example.com/4k-tv" },
         { name: "Running Shoes", image: "running-shoes.jpg", link: "https://example.com/running-shoes" },
